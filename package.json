@@ -1,0 +1,25 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinkakhu/Unit-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinkakhu/Unit-tests/issues"
+  },
+  "homepage": "https://github.com/alinkakhu/Unit-tests#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "lodash-cli": "^4.17.5"
+  }
+}
